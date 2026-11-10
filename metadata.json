@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Consulting · Engagement & Meeting Tracker",
+  "description": "GBIU Subsidiary Banking internal consulting engagement management, 7-day meeting runway with TBD backlog, deliverable alerts, MOM minutes chaining, and chronological engagement threads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
